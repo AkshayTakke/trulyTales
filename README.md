@@ -37,6 +37,11 @@ HTML stands for "Hypertext Markup Language." It is the most important part of a 
 
 Cascading Style Sheets, or CSS for short, is a stylesheet language that modifies the visual appearance and structure of HTML files. In CSS, selectors identify certain HTML elements for which to apply styles, and declarations specify those styles. Elements, classes, IDs, and even element relationships (parent, child, sibling, and descendant) are all valid targets for selectors. Because of this granularity, designers may apply unique styles to certain regions of a page.
 
+<b>UX Design</b>
+
+![Flow_Diagram](https://github.com/AkshayTakke/trulyTales/assets/54357275/45ad9c7a-47ea-4929-9771-baf9a0de4625)
+
+
 <b>Workflow</b>
 
 <b>Homepage of Blog Application</b>
