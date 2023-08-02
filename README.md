@@ -39,7 +39,7 @@ Cascading Style Sheets, or CSS for short, is a stylesheet language that modifies
 
 <b>UX Design</b>
 
-![Flow_Diagram](https://github.com/AkshayTakke/trulyTales/assets/54357275/45ad9c7a-47ea-4929-9771-baf9a0de4625)
+![Flow_Diagram](https://github.com/AkshayTakke/trulyTales/assets/54357275/3741ff9d-5fca-45ff-aee4-9ea8e292b952)
 
 
 <b>Workflow</b>
